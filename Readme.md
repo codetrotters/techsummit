@@ -25,3 +25,7 @@ We use ImageMagick to process images and convert them into gifs
 This package allows us to connect to the Twitter API
 
     sudo pip install twython
+    
+
+### Example Configuration
+![](https://github.com/codetrotters/techsummit/blob/master/Photobooth.png)
